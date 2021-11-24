@@ -1,7 +1,6 @@
 import { Container, CssBaseline } from "@mui/material";
 import Home from "./components/Home/Home";
 import Navbar from "./components/Navbar/Navbar";
-import "./app.css";
 import Footer from "./components/Footer/Footer";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import About from "./components/About/About";
