@@ -1,0 +1,27 @@
+.banner {
+  background-image: url("../img/heroImg.jpg");
+  background-position: center;
+  background-size: cover;
+  color: white;
+  height: 40vh;
+  margin-top: 3rem;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.banner-title {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+/* .banner-title h1 {
+  font-size: 3rem;
+  letter-spacing: 6px;
+  font-weight: 500;
+  margin-bottom: 1rem;
+} */
